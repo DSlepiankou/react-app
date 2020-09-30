@@ -19,7 +19,7 @@ const AppHeader = () => {
 const SearchPanel = () => {
   const searchText = 'Type here to search';
   const searchStyle = {
-    fontSize: '25px'
+    fontSize: '20px'
   }
   return  <input 
   style={searchStyle}
