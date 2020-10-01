@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SearchPanel = () => {
-  const searchText = 'qwe';
+  const searchText = 'Type here to search';
   const searchStyle = {
     fontSize: '20px'
   }
